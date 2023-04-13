@@ -1,5 +1,9 @@
 #!/bin/bash
 
+# Copyright Richard Brown-Martin 2023. All rights reserved.
+# Strictly no un-authorised use, specifically by anyone at Jigsaw24.
+# Anyone else can use this freely.
+
 # Jamf Credentials
 username="updateAPI"
 password="updateAPIuser123!"
