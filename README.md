@@ -74,11 +74,12 @@ The policy to deploy this automatically should run outside of working hours to p
 - Ideally the script should only be scoped to Macs that have already Downloaded the macOS update in order to minimise execution time and disruption to users
 	- This can be done using the EA and a Smart Group with criteria RBM-SoftwareUpdateEA 'Like' Downloaded
 
+#### API User
 
-
-
-
-
+When creating the API user in Jamf Pro, it is important that they can
+- Read Computers
+- Send MDM commands to update macOS
+- Send Blank Push
 
 
 
