@@ -82,10 +82,5 @@ When creating the API user in Jamf Pro, it is important that they can
 - Send Blank Push
 
 
-
-
-
-
-
-
-
+# License
+This script is free to use for anyone who finds it. Permission is however strictly denied to Jigsaw24 or anyone working for Jigsaw24 to use or plagarise any of my work in any way.
