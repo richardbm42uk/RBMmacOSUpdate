@@ -71,6 +71,8 @@ The MDM command “macos-managed-software-updates”  will only work on a Mac wi
 
 The policy to deploy this automatically should run outside of working hours to prevent disruption
 
+###### Before deployment, either add the credentials for an appropriate API user credentials to the script, or otherwise use variables to pass these from the policy
+
 - Ideally the script should only be scoped to Macs that have already Downloaded the macOS update in order to minimise execution time and disruption to users
 	- This can be done using the EA and a Smart Group with criteria RBM-SoftwareUpdateEA 'Like' Downloaded
 
