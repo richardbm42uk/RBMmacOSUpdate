@@ -5,9 +5,9 @@
 # Anyone else can use this freely.
 
 # Jamf Credentials
-username="updateAPI"
-password="updateAPIuser123!"
-URL="https://jigsaw24richard.jamfcloud.com"
+username="APIUSER"
+password="APIPASS"
+URL="https://JAMFURL"
 
 # Max time to wait
 maxTime=900
